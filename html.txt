@@ -1,0 +1,247 @@
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v4.1.1">
+    <title _msthash="149916" _msttexthash="551174" _msthidden="1"></title>
+
+ 
+    <header>
+  <div class="collapse bg-dark" id="navbarHeader" _msthidden="6">
+    <div class="container" _msthidden="6">
+      <div class="row" _msthidden="6">
+        <div class="col-sm-8 col-md-7 py-4" _msthidden="2">
+          <h4 class="text-white" _msthash="912184" _msttexthash="60892" _msthidden="1"></h4>
+          <p class="text-muted" _msthash="889070" _msttexthash="29573219" _msthidden="1"</p>
+        </div>
+        <div class="col-sm-4 offset-md-1 py-4" _msthidden="4">
+          <h4 class="text-white" _msthash="912652" _msttexthash="94510" _msthidden="1"></h4>
+          <ul class="list-unstyled" _msthidden="3">
+            <li _msthidden="1"><a href="#" class="text-white" _msthash="1175928" _msttexthash="295321" _msthidden="1"></a></li>
+            <li _msthidden="1"><a href="#" class="text-white" _msthash="1176526" _msttexthash="249184" _msthidden="1"></a></li>
+            <li _msthidden="1"><a href="#" class="text-white" _msthash="1177124" _msttexthash="92131" _msthidden="1"></a></li>
+          </ul>
+        </div>
+      </div>
+  
+
+
+      <div class="fixed-top">
+        <div class="collapse" id="navbarToggleExternalContent">
+          <div class="bg-dark p-4">
+            <h5 class="text-white h4"></h5>
+            <span class="text-muted"></span>
+          </div>
+        </div>
+        <nav class="navbar navbar-dark bg-dark">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </nav>
+      </div>
+
+
+
+    </button>
+  </div>
+  </div>
+  </header>
+  <main role="main">
+  <section class="jumbotron text-center">
+  <div class="container">
+  <h1 _msthash="862355" _msttexthash="285103"></h1>
+  <p class="lead text-muted" _msthash="841282" _msttexthash="18221359"> 
+   </nav>
+  </div>
+
+
+  <div class="fixed-top">
+    <div class="collapse" id="navbarToggleExternalContent">
+      <div class="bg-dark p-4">
+        <h5 class="text-white h4"></h5>
+        <span class="text-muted"></span>
+      </div>
+    </div>
+    <nav class="navbar navbar-dark bg-dark">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span><h5>home</h5>barcos</h5>
+      </button>
+    </nav>
+  </div>
+ 
+
+
+
+        <div class="card-deck">
+          <div class="card">
+            <img src=" https://www.outbackyachts.com/wp-content/uploads/2019/06/Outback-Hull1_Profile-Overhead_Flats-Boat-e1560898137701.jpg " class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">CATEGORIA</h5>
+              <p class="card-text">LANCHAS - BARCOS.</p>
+              <p class="card-text"><small class="text-muted"></small></p>
+            </div>
+            
+    
+          
+             <!-- On rows -->
+            <tr class="bg-primary">...</tr "
+
+          </div>
+  <div class="card-deck">
+    <div class="card">
+      <img src=" https://www.outbackyachts.com/wp-content/uploads/2019/06/Outback-Hull1_Profile-Overhead_Flats-Boat-e1560898137701.jpg " class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title"></h5>
+        <p class="card-text"></p>
+        <p class="card-text"><small class="text-muted"></small></p>
+      </div>
+    </div>
+
+
+    <div class="card">
+      <img src=" https://www.horizonyacht.com/_upload/images/1708111149502.jpg " class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title"></h5>
+        <p class="card-text"></p>
+        <p class="card-text"><small class="text-muted"></small></p>
+      </div>
+    </div>
+
+
+
+
+    <div class="card">
+      <img src="https://d2n4wb9orp1vta.cloudfront.net/resources/images/300/cdn/cms/Revolver%2042_web.jpg " class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title"></h5>
+        <p class="card-text"></p>
+        <p class="card-text"><small class="text-muted"></small></p>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+
+
+
+<nav class="nav nav-pills flex-column flex-sm-row">
+  
+  <a class="flex-sm-fill text-sm-center nav-link" href="#">Sportes</a>
+    <thead>
+      <tr>
+        <th scope="col"></th>
+  <a class="flex-sm-fill text-sm-center nav-link" href="#">Turbinadas</a>
+  <thead>
+    <tr>
+      <th scope="col"></th>
+  <a class="flex-sm-fill text-sm-center nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Importadas</a>
+  
+
+  <thead>
+    <tr>
+      <th scope="col"></th>
+</nav>
+<div>
+<button type="button" class="btn btn-primary btn-sm">Bonitas</button>
+<div>
+<button type="button" class="btn btn-primary btn-sm"> Customizadas</button>
+<div>
+<button type="button" class="btn btn-primary btn-sm">Spsportivas</button>
+<div>
+<button type="button" class="btn btn-primary btn-sm">Turbinadas</button>
+<div>
+<button type="button" class="btn btn-primary btn-sm">Lindas</button>
+<div>
+</button>
+</div>
+</div>
+</header>
+<main role="main">
+<section class="jumbotron text-center">
+<div class="container">
+<h1 _msthash="862355" _msttexthash="285103"></h1>
+<p class="lead text-muted" _msthash="841282" _msttexthash="18221359"> 
+ </nav>
+</div>
+
+
+
+
+<footer class="text-muted">
+  <div class="container">
+    <p class="float-right">
+      <a href="#" _msthash="518908" _msttexthash="236444"></a>
+    </p>
+    <p _msthash="519311" _msttexthash="3390387"></p>
+    <p _msthash="519714" _msttexthash="3108677"><a href="https://getbootstrap.com/" _istranslated="1"><a href="/docs/4.5/getting-started/introduction/" _istranslated="1"></a>.</p>
+  </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+      <script>window.jQuery || document.write('<script src="/docs/4.5/assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="/docs/4.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-LtrjvnR4Twt/qOuYxE721u19sVFLVSA4hf/rRt6PrZTmiPltdZcI7q7PXQBYTKyf" crossorigin="anonymous"></script>
+
+</body></html>
+
+<footer class="text-muted">
+  <div class="container">
+    <p class="float-right">
+      <a href="#" _msthash="518908" _msttexthash="236444"></a>
+    </p>
+    <p _msthash="519311" _msttexthash="3390387">BARCOS_lanchas esportivas no Brasil
+A lista disponíveis no Brasil é pequena. 
+
+Na linha.Paixões não medem limites. Existem fãs de determinados automóveis que não
+se contentam em ter seu objeto de adoração na garagem. Eles compram tudo
+associado ao modelo: camisetas, fotos, miniaturas, acessórios.
+Pensando nisso, a fabricante de barcos FAFG construiu uma
+lancha à imagem e semelhança do Chevrolet Corvette, um dos carros mais
+admirados do planeta.
+tecnologia desenvolvida pelo estaleiro é voltada para construção de
+barcos de alto desempenho. Diferenciais como processo de infusão a
+vácuo em todas as peças - procedimento raro no mercado náutico - uma
+exclusiva CNC de 5 eixos, marcenaria e estofaria própria em um
+verticalizado processo de produção, somados ao design do arquiteto naval
+e fundador Frnacisco Ferreira, garantem a segurança, conforto e excelente
+navegação que fazem da Schaefer Yachts referência internacional em
+qualidade, tecnologia e sofisticação.</p>
+    <p _msthash="519714" _msttexthash="3108677"><a href="https://getbootstrap.com/" _istranslated="1"><a href="/docs/4.5/getting-started/introduction/" _istranslated="1"></a>.</p>
+  </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+      <script>window.jQuery || document.write('<script src="/docs/4.5/assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="/docs/4.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-LtrjvnR4Twt/qOuYxE721u19sVFLVSA4hf/rRt6PrZTmiPltdZcI7q7PXQBYTKyf" crossorigin="anonymous"></script>
+
+</body></html>
+
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">LANCHAS</th>
+      <th scope="col">NOVAS</th>
+      <th scope="col">USADAS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mercedes</td>
+      <td>$350.000,00</td>
+      <td>$189.000,00</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Fountain</td>
+      <td>$200.000,00</td>
+      <td>$164.000,00</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Cigarette Racing</td>
+      <td>$264.000,00</td>
+      <td>$264.000,00</td>
+    </tr>
+  </tbody>
+</table>
+
